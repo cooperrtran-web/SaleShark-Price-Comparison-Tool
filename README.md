@@ -2,6 +2,8 @@
 
 My project is a Python-based automated price comparison tool. The prototype automatically collects and compares product prices from online stores, relying on two Python libraries (httpx) to download a site's HTML and (BeautifulSoup), which reads and extracts data from the downloaded HTMLs. Using this scraped data, my code then prints all product names and prices found, comparing everyone to find the lowest price, which is then printed and indicated as (cheapest).
 
+The intended purpose of my prototype was to encourage smarter consumer choices, offering communities a quick and simple way to compare the prices of products and avoid overspending. The code runs solely in idle currently; however, I have plans to create a user-friendly interface to making the product accessible to a wide demographic.
+
 
 
 Resources required:
