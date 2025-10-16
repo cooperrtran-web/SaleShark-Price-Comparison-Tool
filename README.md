@@ -1,6 +1,6 @@
 # SaleShark-Price-Comparison-Tool
 
-
+My project is a Python-based automated price comparison tool. The prototype automatically collects and compares product prices from online stores, relying on two Python libraries (httpx) to download a site's HTML and (BeautifulSoup), which reads and extracts data from the downloaded HTMLs. Using this scraped data, my code then prints all product names and prices found, comparing everyone to find the lowest price, which is then printed and indicated as (cheapest).
 
 
 
